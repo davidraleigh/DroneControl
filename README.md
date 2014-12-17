@@ -1,4 +1,0 @@
-DroneControl
-============
-
-Thesis Project
