@@ -1,4 +1,4 @@
-# Project Name #
+# DronePass #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,22 +17,22 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  Drone traffic control by officials, for citizens. 
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  For UAV controllers and homeowners, finally a seamless app to control the airspace. 
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  DronePass is a UAV traffic controller tool that regulates drone flight paths by setting coordinate-based permissions and communicating them to drones in real time. Through the application a drone will register their flight path and get approval from controllers. Controllers then will receive real-time updates from in-flight drones and have the ability to divert drones from their current flight paths, using a proprietary route optimization algorithm. Homeowners themselves can set permissions for the airspace above their homes to control whether drones can pass.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  DronePass is the FAA for UAVs. It controls and diverts UAVs as needed using complex routing algorithms and permissions based settings.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  Air traffic for drones. simplified.
 
 ## Quote from You ##
-  > "Drone Pass helps control UAV traffic according local and federal regulation protocols" -David Raleigh, 2014
+  > "DronePass helps control UAV traffic according local and federal regulation protocols" -David Raleigh, 2014
 
 ## How to Get Started ##
   > Login to dronepass.com and manage your property's air space permissions.
@@ -41,4 +41,4 @@ Once the project moves into development, the press release can be used as a touc
   > "Drone Pass helped me stop annoying drones from flying over my property. Thanks Drone Pass" -Frank Sinatra, 2055
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  Want to see if drones can fly over your home? Go to dronepass.com to check and set permissions.
